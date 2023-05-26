@@ -2,7 +2,7 @@
 //  CountryAPISwiftUITestsLaunchTests.swift
 //  CountryAPISwiftUITests
 //
-//  Created by Soji Afonja on 5/26/23.
+//  Created by James Afonja on 5/26/23.
 //
 
 import XCTest
